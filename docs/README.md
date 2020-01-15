@@ -1,13 +1,13 @@
-### Index
+# Clean Code Resources
 
+- [Intro](#intro)
 - [General](#general)
   - [Books](#books)
   - [Podcasts](#podcasts)
-  - [Written material](#written_material)
+  - [Written material](#written-material)
 - [Language-specific](#language-specific)
   - [ABAP](#abap)
-  - [C++](#c-1)
-  - [General](#general)
+  - [C++](#c)
   - [Go](#go)
   - [JavaScript](#javascript)
   - [.NET Framework](#net-framework)
@@ -15,6 +15,11 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [TypeScript](#typescript)
+
+## Intro
+
+The purpose of the project is to compile a list of resources related to clean code development practices.
+If you want to contribute, please navigate to the GitHub [repository](https://github.com/jwigert/clean-code-resources).
 
 ## General
 
@@ -34,6 +39,7 @@
 * [Coding Blocks 054 - Clean Code - How to Write Amazing Unit Tests](https://www.codingblocks.net/episode54)
 * [Coding Blocks 055 - Clean Code - How to Write Classes the Right Way](https://www.codingblocks.net/episode55)
 * [Coding Blocks 056 - Clean Code - How to Build Maintainable Systems](https://www.codingblocks.net/episode56)
+* [The 6 Figure Developer 047 - Clean Code & the 3 Virtues of a Programmer](https://6figuredev.com/podcast/episode-047-clean-code-the-3-virtues-of-a-programmer)
 
 ### Written material
 
@@ -57,6 +63,7 @@
 ### JavaScript
 
 * [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [JavaScript Jabber: 259 Clean Code JavaScript with Ryan McDermott](https://devchat.tv/js-jabber/clean-code-javascript-with-ryan-mcdermott/#viewport) - Podcast episode
 * [The junior developer’s guide to writing super clean and readable code](https://www.freecodecamp.org/news/the-junior-developers-guide-to-writing-super-clean-and-readable-code-cd2568e08aae)
 
 ### .NET Framework
