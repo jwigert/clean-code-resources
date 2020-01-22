@@ -39,6 +39,7 @@ If you want to contribute, please navigate to the GitHub [repository](https://gi
 * [Coding Blocks 054 - Clean Code - How to Write Amazing Unit Tests](https://www.codingblocks.net/episode54)
 * [Coding Blocks 055 - Clean Code - How to Write Classes the Right Way](https://www.codingblocks.net/episode55)
 * [Coding Blocks 056 - Clean Code - How to Build Maintainable Systems](https://www.codingblocks.net/episode56)
+* [Complete Developer Podcast 232 - Clean Code with Uncle Bob Martin](https://completedeveloperpodcast.com/episode-232)
 * [The 6 Figure Developer 047 - Clean Code & the 3 Virtues of a Programmer](https://6figuredev.com/podcast/episode-047-clean-code-the-3-virtues-of-a-programmer)
 
 ### Written material
