@@ -63,6 +63,7 @@ If you want to contribute, please navigate to the GitHub [repository](https://gi
 
 ### JavaScript
 
+* [Airbnb's JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [JavaScript Jabber: 259 Clean Code JavaScript with Ryan McDermott](https://devchat.tv/js-jabber/clean-code-javascript-with-ryan-mcdermott/#viewport) - Podcast episode
 * [The junior developer’s guide to writing super clean and readable code](https://www.freecodecamp.org/news/the-junior-developers-guide-to-writing-super-clean-and-readable-code-cd2568e08aae)
