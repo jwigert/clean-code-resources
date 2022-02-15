@@ -15,6 +15,7 @@
     - [HTML/CSS](#htmlcss)
     - [Java](#java)
     - [JavaScript](#javascript)
+    - [Kotlin](#kotlin)
     - [Lisp](#lisp)
     - [.NET Framework](#net-framework)
     - [Objective-C](#objective-c)
@@ -100,6 +101,10 @@ If you want to contribute, please navigate to the GitHub [repository](https://gi
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 - [JavaScript Jabber: 259 Clean Code JavaScript with Ryan McDermott](https://devchat.tv/js-jabber/clean-code-javascript-with-ryan-mcdermott/#viewport) - Podcast episode
 - [The junior developer’s guide to writing super clean and readable code](https://www.freecodecamp.org/news/the-junior-developers-guide-to-writing-super-clean-and-readable-code-cd2568e08aae)
+
+### Kotlin
+
+- [Kotlin Coding conventions](https://kotlinlang.org/docs/coding-conventions.html)
 
 ### Lisp
 
